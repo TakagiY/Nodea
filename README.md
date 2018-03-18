@@ -1,2 +1,2 @@
 # Nodea
-an extension of Firmata multi-node communication.
+an extension of Firmata for multi-node communication.
